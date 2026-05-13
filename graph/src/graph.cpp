@@ -1,6 +1,7 @@
 #include "../include/graph.hpp"
 
 #include <chrono>
+#include <cstring>
 #include <fstream>
 #include <iostream>
 #include <queue>
